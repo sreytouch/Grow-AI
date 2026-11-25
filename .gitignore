@@ -1,0 +1,19 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+notebooks/data/
+
+# Downloaded or generated project data
+data/raw/
+data/plantvillage/
+data/processed/
+
+# Generated outputs
+output/
+outputs/
+
+# Local caches
+*.db

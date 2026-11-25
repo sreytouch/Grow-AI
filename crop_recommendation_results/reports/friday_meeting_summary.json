@@ -1,0 +1,17 @@
+{
+  "best_model": "Random Forest",
+  "test_samples": 440,
+  "correct_predictions": 438,
+  "misclassified_samples": 2,
+  "random_forest_test_accuracy": 0.9954545454545455,
+  "random_forest_cv_mean": 0.9943181818181819,
+  "xgboost_test_accuracy": 0.9886363636363636,
+  "xgboost_cv_mean": 0.9926136363636363,
+  "top_features": [
+    "rainfall",
+    "humidity",
+    "k",
+    "p",
+    "n"
+  ]
+}

@@ -1,0 +1,8 @@
+Feature,Importance (%),Interpretation
+rainfall,21.96408669698053,Water availability and seasonal precipitation pattern
+humidity,21.705796499206517,Atmospheric moisture and crop climate suitability
+k,18.081334854665876,"Potassium availability, water regulation, and stress tolerance"
+p,15.134218830842583,Phosphorus availability for roots and plant energy transfer
+n,10.335637977565044,Nitrogen availability for vegetative growth
+temperature,7.548469157356018,Thermal conditions affecting growth and development
+ph,5.230455983383439,Soil acidity or alkalinity affecting nutrient availability
